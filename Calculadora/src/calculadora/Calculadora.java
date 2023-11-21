@@ -56,7 +56,9 @@ public class Calculadora{
             default:
                 System.out.println("Operador no válido.");
         }
-	
+	System.out.println("Propiedad de Kevin García");
+        System.out.println("IES Emili Darder");
+		
 
         scanner.close();
     }
